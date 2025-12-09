@@ -1,1 +1,9 @@
+This program shows a simple menu where the user can pick an option like adding an item, viewing items, opening settings, or exiting. 
+It uses if-statements and a nested if inside the settings section to handle different choices. Depending on what the user enters, 
+the program prints a message showing what action was selected
 
+
+
+This program asks the user to enter three numbers and then uses nested if-statements to figure out which number is the largest.
+It compares the numbers step by step and prints the biggest one at the end. 
+It’s mainly for practicing conditional logic and comparing values in C++.
